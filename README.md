@@ -1,4 +1,4 @@
-#Database Assignment
+# Database Assignment
 This repo contains a university database simulation
 
 ## Contributors:
